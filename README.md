@@ -1,4 +1,5 @@
-# Source Code Praktik Mingguan Arduino Semester 3
+Source Code Praktik Mingguan Arduino Semester 3
+------------------------------------------------
 Video Simulasi : https://youtu.be/Ro83ljs0jk8  
 List Tugas :  
 * Pertemuan 1   (24/09/2020) - Perkenalan (Tidak Ada Praktik)
