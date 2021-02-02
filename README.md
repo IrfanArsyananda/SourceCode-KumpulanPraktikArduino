@@ -15,4 +15,4 @@ List Tugas :
 * Pertemuan 10  (26/11/2020) - Sensor Ultrasonik *memunculkan jarak di Serial monitor
 * Pertemuan 11  (03/12/2020) - Sensor Ultrasonik + 3 Lampu *Lampu menyala 1 per satu
 * Pertemuan 12  (10/12/2020) - (Tidak Ada Praktik)
-* Pertemuan 13  (17/12/2020) - (Ujian Akhir Semester)
+* Pertemuan 13  (17/12/2020) - (Ujian Akhir Semester - Tidak Ada Praktik)
