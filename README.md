@@ -1,8 +1,8 @@
 # Source Code Praktik Mingguan Arduino Semester 3
 Video Simulasi : https://youtu.be/Ro83ljs0jk8
 List Tugas :
--Pertemuan 1   (24/09/2020) - Perkenalan (Tidak Ada Praktik)
--Pertemuan 2   (01/10/2020) - Persiapan (Tidak Ada Praktik)
+  Pertemuan 1   (24/09/2020) - Perkenalan (Tidak Ada Praktik)
+  Pertemuan 2   (01/10/2020) - Persiapan (Tidak Ada Praktik)
 -Pertemuan 3   (08/10/2020) - Blink Lampu Lalu Lintas (3 Lampu LED)
 -Pertemuan 4   (15/10/2020) - Digital Input (3 Lampu LED + Pushbutton)
 -Pertemuan 5   (22/10/2020) - Analog input  (3 Lampu LED + Potensiometer)
